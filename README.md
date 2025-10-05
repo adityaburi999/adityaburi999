@@ -1,5 +1,6 @@
 # Hi there, I'm Aditya Buri 👋
 PORTFOLIO :- https://adityaburi999.github.io/
+
 I am a passionate Class 9 student and aspiring developer from Jaipur, India. I love exploring technology, web development, gaming, and physics. I’m actively learning new skills and working on cool projects to improve every day.
 
 ---
